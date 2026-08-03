@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Prince%20Soni&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=60&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%20There,%20I'm%20Prince%20Soni%20%F0%9F%91%8B&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20Engineer%20%7C%20Full%20Stack%20%2F%20MERN%20Developer&descAlignY=55&descSize=18"/>
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&width=700&lines=Building+intelligent+AI+systems+%F0%9F%A4%96;Full+Stack+%2B+Generative+AI+Developer+%F0%9F%9A%80;Turning+complex+ideas+into+real+solutions+%F0%9F%92%A1;LangChain+%7C+Mistral+%7C+RAG+%7C+Agents+%F0%9F%A7%A0" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&width=750&lines=Building+the+MERN+stack%2C+end+to+end+%F0%9F%92%BB;Full+Stack+%2B+Generative+AI+Developer+%F0%9F%9A%80;LangChain+%7C+Pinecone+%7C+ChromaDB+%7C+RAG+Agents+%F0%9F%A7%A0;Turning+complex+ideas+into+real+products+%E2%9A%A1" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -16,6 +16,7 @@
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:princesoni.cs21@gmail.com)
 
 [![Profile Views](https://visitcount.itsvg.in/api?id=Prince671&icon=5&color=6)](https://visitcount.itsvg.in)
+[![GitHub followers](https://img.shields.io/github/followers/Prince671?label=Follow&style=social)](https://github.com/Prince671)
 
 </div>
 
@@ -27,9 +28,11 @@
 class PrinceSoni:
     def __init__(self):
         self.name       = "Prince Soni"
-        self.role       = "AI Engineer & Full Stack Developer"
+        self.role       = "AI Engineer & Full Stack (MERN) Developer"
+        self.education  = "B.Tech CSE, VITS Satna (RGPV) — Class of 2027"
         self.location   = "India 🇮🇳"
         self.languages  = ["Python", "JavaScript", "TypeScript", "Java", "C++"]
+        self.stack      = ["MongoDB", "Express.js", "React", "Node.js"]
         self.focus      = ["Generative AI", "RAG Systems", "AI Agents", "Backend APIs"]
         self.currently  = "Building AI-powered full-stack applications"
         self.learning   = ["Advanced Python", "System Design", "LLM Optimization"]
@@ -46,7 +49,7 @@ me.say_hi()
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🔭 Currently Working On
 AI-based applications focused on automation, API integration, and solving real-world problems with LLMs.
@@ -58,7 +61,7 @@ AI projects, backend development, and scalable web applications — especially i
 System design, API performance optimization, and building efficient real-time solutions.
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🌱 Currently Learning
 Advanced Python, JavaScript, and AI integration techniques — going deeper into agent frameworks and vector search.
@@ -78,51 +81,78 @@ I enjoy building efficient systems that turn complex ideas into practical, worki
 ## 🛠️ Tech Stack
 
 ### 🧠 AI & Machine Learning
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python" alt="Python" width="45" height="45"/>&nbsp;
+<img src="https://raw.githubusercontent.com/langchain-ai/langchain/master/docs/static/img/favicon.ico" title="LangChain" alt="LangChain" width="45" height="45"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" alt="TensorFlow" width="45" height="45"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" title="PyTorch" alt="PyTorch" width="45" height="45"/>&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" title="scikit-learn" alt="scikit-learn" width="45" height="45"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="45" height="45"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" title="NumPy" alt="NumPy" width="45" height="45"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg" title="Plotly" alt="Plotly" width="45" height="45"/>
+</p>
 
-### 🌐 Frontend
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+**RAG & Vector Search:** ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white) ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F61?style=for-the-badge) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
 
-### ⚙️ Backend
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+### 🌐 Frontend — MERN
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" title="React" alt="React" width="45" height="45"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" title="Next.js" alt="Next.js" width="45" height="45"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="45" height="45"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="45" height="45"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="45" height="45"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="45" height="45"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="45" height="45"/>
+</p>
+
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
+
+### ⚙️ Backend — MERN
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="45" height="45"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" title="Express.js" alt="Express.js" width="45" height="45" style="background:white;border-radius:6px"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" title="Flask" alt="Flask" width="45" height="45" style="background:white;border-radius:6px"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" title="FastAPI" alt="FastAPI" width="45" height="45"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" title="Django" alt="Django" width="45" height="45" style="background:white;border-radius:6px"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/socketio/socketio-original.svg" title="Socket.io" alt="Socket.io" width="45" height="45" style="background:white;border-radius:6px"/>
+</p>
+
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
 
 ### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="45" height="45"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="45" height="45"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="45" height="45"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original.svg" title="MariaDB" alt="MariaDB" width="45" height="45"/>
+</p>
 
 ### 🔧 Languages & Tools
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="45" height="45"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" title="C" alt="C" width="45" height="45"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" title="Java" alt="Java" width="45" height="45"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" title="PHP" alt="PHP" width="45" height="45"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" title="NPM" alt="NPM" width="45" height="45"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="45" height="45"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" title="Vercel" alt="Vercel" width="45" height="45"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" title="LaTeX" alt="LaTeX" width="45" height="45"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" title="Arduino" alt="Arduino" width="45" height="45"/>&nbsp;
+<img src="https://www.vectorlogo.zone/logos/microsoft_powershell/microsoft_powershell-icon.svg" title="PowerShell" alt="PowerShell" width="45" height="45"/>
+</p>
+
+---
+
+## 🚀 Featured Project
+
+<div align="left">
+
+**📝 [NoteFlow](https://github.com/Prince671) — MERN-stack Notes App**
+A full-stack notes application with a built-in canvas drawing tool (6 tools, undo/redo, PNG export via Cloudinary), folder organization, auto-refresh sync, and a custom indigo-to-violet design system with dark/light theming.
+
+`MongoDB` `Express` `React` `Node.js` `Mongoose` `Cloudinary` `Lucide React`
+
+</div>
 
 ---
 
@@ -159,6 +189,15 @@ I enjoy building efficient systems that turn complex ideas into practical, worki
 
 </div>
 
+<!--
+  🐍 Contribution Snake — set this up once via the GitHub Action at
+  https://github.com/Platane/snk to auto-generate snake.svg on your profile repo,
+  then this embed will animate your contribution graph as a snake game.
+-->
+<div align="center">
+<img src="https://raw.githubusercontent.com/Prince671/Prince671/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%"/>
+</div>
+
 ---
 
 ## 🔝 Top Contributed Repos
@@ -184,7 +223,7 @@ I enjoy building efficient systems that turn complex ideas into practical, worki
 <div align="center">
 
 <!-- Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
 
 **Thanks for stopping by! Let's connect and build something amazing together 🚀**
 
